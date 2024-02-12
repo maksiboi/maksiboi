@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maksiboi
 - 👀 I’m interested in data science and software engineering
-- 🌱 I’m currently learning R,SQL and Pyhton
 - 💞️ I’m looking to collaborate on all kind of data science projects
 - 📫 How to reach me maksimkos53@gmail.com
 
